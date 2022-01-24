@@ -1,0 +1,1 @@
+java -jar target/lightdb-1.0.0-jar-with-dependencies.jar samples/db samples/input/query$1.sql samples/output/query$1.csv
